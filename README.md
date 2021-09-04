@@ -4,4 +4,4 @@ Domaine : Web / mobile App
 
 Dates : 06/12/2021 -> 11/02/2022
 
-<!-- Infos : https://u-louis.github.io/Recherche.Stage/ -->
+Infos : https://u-louis.github.io/Recherche.Stage/
